@@ -1,6 +1,5 @@
-# imageprocessing_toolbox
-A few implementations in matlab on how to process image (and signals in general) 
+# Image-processing
+My homeworks implementation of image processing algorithms during my Master class taught by M. Yohann Tendero.
 
-Contributors:
-- Nawel Medjkoune
-- Fella Belkham @fichette
+Link : http://perso.telecom-paristech.fr/~ytendero/
+
